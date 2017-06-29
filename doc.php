@@ -8,3 +8,8 @@ the test file for test
 66666
 77777
 88888
+99999
+00000
+AAAAA
+BBBBB
+CCCCC
