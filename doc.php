@@ -14,6 +14,6 @@ AAAAA
 B8888
 99999
 AAAAA
-ZZZZZZZZZ
-CCCCCCC
-+++++++++++++++++++++++++++++___
+
+
+
