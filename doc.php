@@ -13,4 +13,11 @@ the test file for test
 AAAAA
 B8888
 99999
+<<<<<<< HEAD
 
+=======
+AAAAA
+ZZZZZZZZZ
+CCCCCCC
++++++++++++++++++++++++++++++___
+>>>>>>> 5bd09d21437ac43d2e644d3157d0fc0877854aa4
