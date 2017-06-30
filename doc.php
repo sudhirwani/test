@@ -11,10 +11,5 @@ the test file for test
 99999
 00000
 AAAAA
-BBBBB
-ffsdfsdfdsfdsfsdf
-sdfdsfds
-fsdfdsfds
-fsdfds
-fdsfdsf
-d
+B8888
+99999
